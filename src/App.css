@@ -1,0 +1,33 @@
+body {
+
+  margin: 20px;
+
+}
+
+.buttonSelect {
+
+  opacity: 0.5;
+
+  border-radius: 50%;
+
+  width: 25px;
+  height: 25px;
+
+  position: relative;
+  top: 10px;
+  left: 20px;
+}
+
+.buttonSelected {
+  opacity: 1;
+  background-color: green;
+}
+
+
+.buttonNext {
+  margin-top: 20px;
+}
+
+.questionDiv {
+  display:flex ;
+}
